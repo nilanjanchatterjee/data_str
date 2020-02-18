@@ -1,7 +1,7 @@
 Introduction to Data structures and Operators in R
 ========================================================
 
-<img src="D:/Work/R class/data_str.png" title="data structure" alt="data structure" width="70%" style="display: block; margin: auto;" />
+<img src="https://nilanjanchatterjee.github.io/data_str/Data%20structures-figure/data_str.png" title="data structure" alt="data structure" width="70%" style="display: block; margin: auto;" />
 Nilanjan Chatterjee  
 February, 2020
 
@@ -34,7 +34,7 @@ Different types of data strctures
 Different types of data strctures 
 ========================================================
 
-<img src="D:/Work/R class/Confused_cat.jpg" title="Confused" alt="Confused" width="90%" style="display: block; margin: auto;" />
+<img src="https://nilanjanchatterjee.github.io/data_str/Data%20structures-figure/Confused_cat.jpg" title="Confused" alt="Confused" width="90%" style="display: block; margin: auto;" />
 
 Different types of data strctures 
 ========================================================
@@ -325,6 +325,6 @@ Resources
 
 Questions
 ========================================================
-<img src="D:/Work/R class/bored.jpg" title="Bored" alt="Bored" width="50%" style="display: block; margin: auto;" /><img src="D:/Work/R class/cheering.gif" title="Bored" alt="Bored" width="50%" style="display: block; margin: auto;" />
+<img src="https://nilanjanchatterjee.github.io/data_str/Data%20structures-figure/bored.jpg" title="Bored" alt="Bored" width="50%" style="display: block; margin: auto;" /><img src="https://nilanjanchatterjee.github.io/data_str/Data%20structures-figure/cheering.gif" title="Bored" alt="Bored" width="50%" style="display: block; margin: auto;" />
 
 
