@@ -34,7 +34,7 @@ Different types of data strctures
 Different types of data strctures 
 ========================================================
 
-<img src="https://nilanjanchatterjee.github.io/data_str/Data%20structures-figure/Confused_cat.jpg" title="Confused" alt="Confused" width="90%" style="display: block; margin: auto;" />
+<img src="https://nilanjanchatterjee.github.io/data_str/Data%20structures-figure/Confused_Cat.jpg" title="Confused" alt="Confused" width="90%" style="display: block; margin: auto;" />
 
 Different types of data strctures 
 ========================================================
