@@ -87,7 +87,7 @@ Vector
 
 - When different datatypes are combined, types of data are converted.
 
-- The conversion follows the sequence logical, integer, double/numeric, and character
+- The conversion follows the sequence *character* > *double/numeric* >*logical* 
 
 Vector
 ========================================================
@@ -321,10 +321,14 @@ The following are the major relational operator in R.
 
 Resources
 ========================================================
+For further readings
+ - **Advanced R** by Hadley Wickham *http://adv-r.had.co.nz/*
+ - **R for Everyone: Advanced Analytics and Graphics** by Jared Lander *https://www.oreilly.com/library/view/r-for-everyone/9780133257182/*
 
 
 Questions
 ========================================================
+Please mail to nilanjanchatterjee7@gmail.com
 <img src="https://nilanjanchatterjee.github.io/data_str/Data%20structures-figure/bored.jpg" title="Bored" alt="Bored" width="50%" style="display: block; margin: auto;" /><img src="https://nilanjanchatterjee.github.io/data_str/Data%20structures-figure/cheering.gif" title="Bored" alt="Bored" width="50%" style="display: block; margin: auto;" />
 
 
